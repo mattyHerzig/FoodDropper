@@ -1,0 +1,16 @@
+name: Dropper
+version: 1.0
+main: me.matty.variety.Main
+api-version: 1.18
+authors: [ Matty ]
+description: Place a dropper that provides the only source of food.
+commands:
+  dropperplace:
+    description: Place the dropper.
+    usage: /<command>
+  dropperremove:
+    description: Remove the dropper.
+    usage: /<command>
+  droppergetdroplet:
+    description: Get droplet(s).
+    usage: /<command>
