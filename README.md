@@ -1,9 +1,9 @@
 # FoodDropper
-Minecraft Spigot Plugin - Place a dropper that provides the only source of food. Made for version `1.18.1`.
+Minecraft Spigot Plugin - Place a dropper that provides the only source of food. Made for version `1.18.1`
 
-Download the plugin under [releases](https://github.com/mattyHerzig/FoodDropper/releases).
+Download the plugin under [releases](https://github.com/mattyHerzig/FoodDropper/releases)
 
-Published to spigotmc.org [here](https://www.spigotmc.org/resources/fooddropper.111740/).
+Published to spigotmc.org [here](https://www.spigotmc.org/resources/fooddropper.111740/)
 
 ## Demo (click)
 [![Demo Video](https://img.youtube.com/vi/lziuGS8t_oE/0.jpg)](https://www.youtube.com/watch?v=lziuGS8t_oE "FoodDropper Demo")
